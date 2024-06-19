@@ -13,15 +13,13 @@ Consulte a seção de Implantação para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 - Python 3.12
-- pip
-- virtualenv
+- pip virtualenv
 
 ### Instalando virtualenv
 
 Para criar ambientes isolados para seus projetos Python, você precisará instalar o virtualenv:
 
-sh
-pip install virtualenv
+%pip install virtualenv
 
 
 ## 🔧 Instalação
@@ -109,22 +107,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 - *SQLite* - Banco de dados leve
 - *TQDM* - Barra de progresso
 
-## 🖇️ Colaborando
-
-Por favor, leia o COLABORACAO.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-- Um Desenvolvedor - Trabalho Inicial - @umdesenvolvedor
-- Fulano De Tal - Documentação - @fulanodetal
-
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
 
 ---
 
