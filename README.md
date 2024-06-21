@@ -62,9 +62,6 @@ jupyter notebook
 
 Abra o notebook seu_notebook.ipynb e execute as células para coletar, transformar e salvar os dados.
 
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
 
 ### 🔩 Analise os testes de ponta a ponta
 
