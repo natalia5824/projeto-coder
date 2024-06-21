@@ -13,7 +13,6 @@ Consulte a seção de Implantação para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 - Python
-- pip virtualenv
 
 ### Instalando virtualenv
 
